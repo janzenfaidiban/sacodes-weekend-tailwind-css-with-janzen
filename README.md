@@ -1,2 +1,3 @@
-# sacodes-weekend-tailwind-css-with-janzen
-Source Codes Tailwind CSS from SaCode's Weekend
+# Tailwind CSS Codes
+
+[Lihat Demo](https://janzenfaidiban.github.io/sacodes-weekend-tailwind-css-with-janzen/)
